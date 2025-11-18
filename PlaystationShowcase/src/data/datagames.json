@@ -16,8 +16,8 @@
       ],
       "images": [
         {
-          "banner": "/src/assets/images/thelastofus/TheLastOfUsII.webp",
-          "page": "/src/assets/images/thelastofus/TheLastOfUsII.2.webp"
+          "banner": "/images/thelastofus/TheLastOfUsII.webp",
+          "page": "/images/thelastofus/TheLastOfUsII.2.webp"
         }
       ]
     },
@@ -37,8 +37,8 @@
       ],
       "images": [
         {
-          "banner": "/src/assets/images/godofwar/GodOfWar.webp",
-          "page": "/src/assets/images/godofwar/GodOfWar.2.webp"
+          "banner": "/images/godofwar/GodOfWar.webp",
+          "page": "/images/godofwar/GodOfWar.2.webp"
         }
       ]
     },
@@ -58,8 +58,8 @@
       ],
       "images": [
         {
-          "banner": "/src/assets/images/spiderman/SpiderMan.webp",
-          "page": "/src/assets/images/spiderman/SpiderMan.2.webp"
+          "banner": "/images/spiderman/SpiderMan.webp",
+          "page": "/images/spiderman/SpiderMan.2.webp"
         }
       ]
     },
@@ -79,8 +79,8 @@
       ],
       "images": [
         {
-          "banner": "/src/assets/images/daysgone/DaysGone.webp",
-          "page": "/src/assets/images/daysgone/DaysGone.2.webp"
+          "banner": "/images/daysgone/DaysGone.webp",
+          "page": "/images/daysgone/DaysGone.2.webp"
         }
       ]
     },
@@ -100,8 +100,8 @@
       ],
       "images": [
         {
-          "banner": "/src/assets/images/ghostoftsushima/GhostOfTsushima.webp",
-          "page": "/src/assets/images/ghostoftsushima/GhostOfTsushima.2.webp"
+          "banner": "/images/ghostoftsushima/GhostOfTsushima.webp",
+          "page": "/images/ghostoftsushima/GhostOfTsushima.2.webp"
         }
       ]
     }

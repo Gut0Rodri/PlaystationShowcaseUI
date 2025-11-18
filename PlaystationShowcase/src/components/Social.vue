@@ -1,7 +1,7 @@
 <script setup>
-import github from '../assets/images/icons/github.svg';
-import linkedin from '../assets/images/icons/linkedin.svg';
-import figma from '../assets/images/icons/figma.svg';
+import github from '/images/icons/github.svg';
+import linkedin from '/images/icons/linkedin.svg';
+import figma from '/images/icons/figma.svg';
 
 const propsSocial = defineProps({
     social: String,

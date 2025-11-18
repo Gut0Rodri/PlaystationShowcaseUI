@@ -1,10 +1,10 @@
 <script setup>
-import closeButton from "../assets/images/icons/close.svg";
-import metacritic from "../assets/images/icons/metacritic.png";
-import psfour from "../assets/images/icons/ps4.svg";
-import psfive from "../assets/images/icons/ps5.svg";
-import steam from "../assets/images/icons/steam.svg";
-import epicgames from "../assets/images/icons/epicgames.svg";
+import closeButton from "/images/icons/close.svg";
+import metacritic from "/images/icons/metacritic.png";
+import psfour from "/images/icons/ps4.svg";
+import psfive from "/images/icons/ps5.svg";
+import steam from "/images/icons/steam.svg";
+import epicgames from "/images/icons/epicgames.svg";
 
 // Props para receber dados do componente "pai"
 const propsGames = defineProps({
