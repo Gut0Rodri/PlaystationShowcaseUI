@@ -1,0 +1,109 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": {
+        "line1": "The Last of Us",
+        "line2": "Part II"
+      },
+      "metacritic": 93,
+      "platforms": ["PS4", "PS5", "Steam", "EpicGames"],
+      "synopsis": [
+        {
+          "first": "Um drama de sobrevivência emocionalmente devastador ambientado em um mundo brutal pós-pandemia.",
+          "second": "A história acompanha Ellie, agora jovem adulta, vivendo em uma comunidade relativamente estável após anos de caos. Quando um ato violento desencadeia uma espiral de ódio, ela embarca em uma jornada marcada por vingança, trauma e escolhas morais ambíguas. O jogo alterna momentos de tensão extrema com passagens de quietude emocional, explorando temas como perda, desumanização, ciclos de violência e o impacto psicológico da sobrevivência. A narrativa é construída de forma cinematográfica, com várias camadas e pontos de vista que desafiam o jogador a questionar seus próprios julgamentos."
+        }
+      ],
+      "images": [
+        {
+          "banner": "/src/assets/images/thelastofus/TheLastOfUsII.webp",
+          "page": "/src/assets/images/thelastofus/TheLastOfUsII.2.webp"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "line1": "God of War",
+        "line2": ""
+      },
+      "metacritic": 94,
+      "platforms": ["PS4", "Steam", "EpicGames"],
+      "synopsis": [
+        {
+          "first": "Um épico emocional sobre paternidade, redenção e identidade, ambientado na mitologia nórdica.",
+          "second": "Após deixar para trás sua vida de guerra e destruição, Kratos vive recluso nas florestas nórdicas ao lado de seu filho, Atreus. Quando a esposa de Kratos falece, pai e filho iniciam uma jornada para levar suas cinzas ao ponto mais alto dos reinos. O caminho, porém, coloca os dois em confronto com criaturas e deuses nórdicos enquanto Kratos luta com seu passado sanguinário e tenta se tornar o pai que nunca conseguiu ser. A narrativa combina ação intensa com momentos íntimos, explorando crescimento, confiança e a relação entre dois personagens que precisam aprender a se entender enquanto enfrentam ameaças colossais."
+        }
+      ],
+      "images": [
+        {
+          "banner": "/src/assets/images/godofwar/GodOfWar.webp",
+          "page": "/src/assets/images/godofwar/GodOfWar.2.webp"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "line1": "Marvel's",
+        "line2": "Spider-Man"
+      },
+      "metacritic": 87,
+      "platforms": ["PS4", "PS5", "Steam", "EpicGames"],
+      "synopsis": [
+        {
+          "first": "Uma aventura vibrante que equilibra ação heroica, vida pessoal e responsabilidade.",
+          "second": "A trama apresenta Peter Parker em sua melhor fase como super-herói — experiente, confiante e acostumado a lidar com perigos constantes. Entretanto, sua vida pessoal continua caótica: emprego instável, relacionamentos complicados e a eterna dificuldade de equilibrar o papel de herói e humano. Quando uma nova ameaça criminosa emergente coloca Nova York em risco, Peter precisa enfrentar inimigos clássicos e novos vilões enquanto preserva seus laços com quem ama. A narrativa mistura humor, drama e emoção, retratando o peso de ser alguém que sempre escolhe fazer o certo, mesmo quando isso cobra um preço alto."
+        }
+      ],
+      "images": [
+        {
+          "banner": "/src/assets/images/spiderman/SpiderMan.webp",
+          "page": "/src/assets/images/spiderman/SpiderMan.2.webp"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "line1": "Days Gone",
+        "line2": ""
+      },
+      "metacritic": 71,
+      "platforms": ["PS4", "PS5", "Steam", "EpicGames"],
+      "synopsis": [
+        {
+          "first": "Um mundo aberto pós-apocalíptico focado em sobrevivência, perda e humanidade em ruínas.",
+          "second": "O jogo acompanha Deacon St. John, um andarilho e motoqueiro que vive como caçador de recompensas dois anos após uma pandemia devastar o mundo, transformando milhões em criaturas violentas chamadas Freakers. Dominado por traumas do passado, Deacon vaga entre comunidades hostis e perigos constantes enquanto se apega à esperança quase impossível de encontrar alguém importante que acreditava ter perdido. A narrativa explora amor, lealdade, culpa e a busca por propósito em um mundo onde confiança é um luxo raro. A moto de Deacon funciona como símbolo de liberdade e sobrevivência, reforçando o tema de constante movimento e incerteza."
+        }
+      ],
+      "images": [
+        {
+          "banner": "/src/assets/images/daysgone/DaysGone.webp",
+          "page": "/src/assets/images/daysgone/DaysGone.2.webp"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": {
+        "line1": "Ghost of",
+        "line2": "Tsushima"
+      },
+      "metacritic": 83,
+      "platforms": ["PS4", "PS5", "Steam", "EpicGames"],
+      "synopsis": [
+        {
+          "first": "Uma jornada poética e brutal sobre honra, sacrifício e a identidade de um guerreiro.",
+          "second": "Ambientado durante a invasão mongol ao Japão em 1274, o jogo segue Jin Sakai, um samurai que sobrevive à devastação inicial da ilha de Tsushima. Com seu código de honra quebrado pela brutalidade do inimigo, Jin se vê obrigado a abandonar tradições para adotar táticas furtivas e não convencionais. Essa transformação dá origem à figura do Fantasma, símbolo de resistência, mas também motivo de conflito interno — entre quem ele é e quem precisa se tornar para proteger seu povo. É uma narrativa que mistura cultura samurai, dilemas morais, paisagens deslumbrantes e uma profunda reflexão sobre legado, honra e liberdade."
+        }
+      ],
+      "images": [
+        {
+          "banner": "/src/assets/images/ghostoftsushima/GhostOfTsushima.webp",
+          "page": "/src/assets/images/ghostoftsushima/GhostOfTsushima.2.webp"
+        }
+      ]
+    }
+  ]
+}

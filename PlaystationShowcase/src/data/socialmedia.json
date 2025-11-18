@@ -1,0 +1,19 @@
+{
+  "social": [
+    {
+      "id": 1,
+      "name": "Github",
+      "href": "https://www.github.com/gut0Rodri"
+    },
+    {
+      "id": 2,
+      "name": "Linkedin",
+      "href": "https://www.linkedin.com/in/gutorodri"
+    },
+    {
+      "id": 3,
+      "name": "Figma",
+      "href": "https://www.figma.com/design/Tm5uvNBq3eQaoLBuKwbZSO/PlayStationShowcaseUI?node-id=0-1&t=qdt6PcmXUpk5Fuam-1"
+    }
+  ]
+}
