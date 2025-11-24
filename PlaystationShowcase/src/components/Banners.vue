@@ -87,7 +87,7 @@ const emit = defineEmits(["open", "close"]);
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  height: 100%;
+  flex-grow: 1;
 
   filter: grayscale(100%);
 
@@ -101,7 +101,7 @@ const emit = defineEmits(["open", "close"]);
 }
 
 .game-section::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
@@ -110,37 +110,34 @@ const emit = defineEmits(["open", "close"]);
 
   background-color: var(--Black);
 
-  animation: heightImage .6s ease-in-out forwards;
+  animation: heightImage 0.6s ease-in-out forwards;
 }
 
 .game-section:nth-child(2):after {
-  animation-delay: .2s;
+  animation-delay: 0.2s;
 }
 
 .game-section:nth-child(3):after {
-  animation-delay: .4s;
+  animation-delay: 0.4s;
 }
 
 .game-section:nth-child(4):after {
-  animation-delay: .6s;
+  animation-delay: 0.6s;
 }
 
 .game-section:nth-child(5):after {
-  animation-delay: .8s;
+  animation-delay: 0.8s;
 }
 
 .game-active .game-section:not(.active) {
   width: 96px;
 }
 
-.game-active .game-section.active {
-  position: relative;
-  filter: grayscale(0);
-
-  cursor: default;
-}
-
 .game-section.active {
+  filter: grayscale(0);
+  cursor: default;
+
+  padding-bottom: 96px;
   & .btn-close {
     position: absolute;
     top: 32px;
@@ -159,9 +156,8 @@ const emit = defineEmits(["open", "close"]);
   }
 
   & .name-content-game {
-    position: absolute;
-    top: 128px;
-    right: 128px;
+    margin-top: 96px;
+    margin-right: 96px;
 
     display: flex;
     flex-direction: column;
@@ -334,9 +330,7 @@ const emit = defineEmits(["open", "close"]);
     }
 
     & .metacritic-platforms {
-
       & .metacritic {
-
         gap: 6px !important;
 
         & img {
